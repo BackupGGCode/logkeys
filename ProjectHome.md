@@ -18,9 +18,6 @@ logkeys was having an [issue on Arch Linux where it produced an empty log](http:
   * also recognize "HID" USB keyboard devices
   * bug fixes
 
-<wiki:gadget up\_ad\_client="2900001379782823" up\_ad\_slot="5408946622" width="728" height="90" border="0" up\_keywords="logkeys,gnu,linux,keylogger,keyboard,serial,usb,software,open-source" url="http://goo.gl/R5bvK" />
-
-
 ---
 
 ### What is logkeys? ###
@@ -32,8 +29,6 @@ Keylogger is a software that quietly monitors keyboard input so as to log any ke
 ### Are there alternative Linux keyloggers? ###
 There is a plethora of keyloggers for Windows, but not so many for Linux.
 On GNU/Linux systems and other reasonable operating systems, keyloggers can be easily implemented with a few lines of shell code. Novice users, however, are usually limited to a narrow set of the following tools: **[lkl](http://sourceforge.net/projects/lkl/)** from 2005, **[uberkey](http://gnu.ethz.ch/linuks.mine.nu/uberkey/)**, which appears dead, **[THC-vlogger](http://freeworld.thc.org/releases.php?q=vlogger)**, made by a renowned group of hackers, and **[PyKeylogger](http://pykeylogger.sourceforge.net/)**. All these tools have their pros and cons. Lkl, for example, sometimes abnormally repeats keys and [its keymap configuration is rather awkward](http://www.google.com/search?q=lkl+keymap) for a range of users. Uberkey, which is just over a hundred lines of code, also often repeats keys and what is worse, [it makes your mouse move abruptly](http://www.google.com/search?q=uberkey+mouse+problem), loosing any sense of control. PyKeylogger, on the other hand, while very feature rich, only works in X environment. Finally, there is vlogger, ...umm..., about which I cannot say anything specifically, only that it is receiving low score all around the web and it only logs shell sessions. There may be other tools, but either way **[logkeys](http://code.google.com/p/logkeys/downloads/)** definitely makes a simple and competitive addition.
-
-<wiki:gadget up\_ad\_client="2900001379782823" up\_ad\_slot="3948022173" width="728" height="90" border="0" up\_keywords="logkeys,gnu,linux,keylogger,keyboard,serial,usb,software,open-source" url="http://goo.gl/R5bvK" />
 
 ### Does logkeys work with USB keyboards? ###
 logkeys Linux keylogger works with serial as well as USB keyboards or similar "HID" devices. However, due to a [certain bug](http://code.google.com/p/logkeys/issues/detail?id=42), a [workaround](http://code.google.com/p/logkeys/wiki/Documentation#Empty_log_file_or_%27Couldn%27t_determine_keyboard_device&) is necessary on some setups.
@@ -56,17 +51,7 @@ Or checkout a <a href='http://code.google.com/p/logkeys/source/checkout'>much ne
 And before using it, <b>please read the <a href='Documentation.md'>documentation</a></b>! Thanks. :-)<br>
 <br>
 <hr />
-
-<h3>SFW Distractions</h3>
-If you want to <b>improve your programming skills</b>, <b>play</b> some of these <b><a href='http://educative-games.org'>educative programming games</a></b>.<br>
-<br>
-<b>How did these Google ads get here</b>?<br>
-See <a href='http://code.google.com/p/gprojecthosting-adsense/'>Adsense for Google Code Hosting project</a>.<br>
-<br>
-</td></tr>
 </table>
-
-<font size='4'><b>Get <a href='http://www.getfreedomain.name'>Free Domain Name</a></b></font> (no ads, no referals, no hosting, no trick... free-for-all domains [click here](http://www.getfreedomain.name/))
 
 
 
